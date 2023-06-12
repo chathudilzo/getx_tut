@@ -6,7 +6,7 @@ class StoreController extends GetxController{
   final flowerCount=0.obs;
   final storeStatus=true.obs;
   final flowerList=[].obs;
-  final reviews=<StoreReviews>[].obs;
+  //final reviews=<StoreReviews>[].obs;
 
   final storeNameEditingController=TextEditingController();
   final reviewEditingController=TextEditingController();
